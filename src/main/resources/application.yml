@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+#person:
+#  lastname: "zhengchen"
+#  age: 18
+#  boss: false
+#  birth: 1992/03/08
+#  maps: {k1: v1, k2: v2}
+#  lists:
+#    - v1
+#    - v2
+#    - v3
+#  cat:
+#    name: "hana"
+#    age: 2
